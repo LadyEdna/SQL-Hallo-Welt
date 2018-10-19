@@ -5,5 +5,6 @@ Declare
 Begin
 
   dbms_output.put_line(gruss);
+  dbms_output.put_line(gruss|| gruss);
 
 End;
