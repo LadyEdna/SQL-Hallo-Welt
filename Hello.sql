@@ -1,0 +1,9 @@
+Declare
+
+  ...
+  
+Begin
+
+  ...
+
+End;
