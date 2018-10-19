@@ -1,6 +1,6 @@
 Declare
 
-  gruss varchar2(25) := 'Hello';
+  gruss varchar2(25) := 'Hello World';
   
 Begin
 
